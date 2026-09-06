@@ -1,0 +1,9 @@
+.git/
+bin/
+.env
+.env.example
+.gitignore
+.markdownlint.json
+CLAUDE.md
+README.md
+*_test.go
