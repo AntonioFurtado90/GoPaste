@@ -1,19 +1,19 @@
 # GoPaste
 
-Um serviço de pastebin (compartilhamento de trechos de texto/código) construído em **Go**, com **HTMX** no frontend, feito como projeto de estudo.
+A pastebin service (text/code snippet sharing) built with **Go** and **HTMX** on the frontend, made as a study project.
 
-## Motivação
+## Motivation
 
-Este projeto segue o [tutorial em vídeo](https://www.youtube.com/watch?v=nu0r9YWbRPw) e o [repositório de referência](https://github.com/newtoallofthis123/GoPaste) do canal, com o objetivo de praticar Go no backend e HTMX no frontend.
+This project follows the [video tutorial](https://www.youtube.com/watch?v=nu0r9YWbRPw) and the [reference repository](https://github.com/newtoallofthis123/GoPaste) from the same channel, with the goal of practicing Go on the backend and HTMX on the frontend.
 
 ## Stack
 
 - [Go](https://go.dev/)
 - [HTMX](https://htmx.org/)
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) — framework web
-- [lib/pq](https://github.com/lib/pq) — driver PostgreSQL
-- [joho/godotenv](https://github.com/joho/godotenv) — variáveis de ambiente
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) — web framework
+- [lib/pq](https://github.com/lib/pq) — PostgreSQL driver
+- [joho/godotenv](https://github.com/joho/godotenv) — environment variables
 
 ## Status
 
-Projeto em desenvolvimento inicial, acompanhando o tutorial.
+Project in early development, following the tutorial.
